@@ -1,0 +1,28 @@
+{
+    "productinfo" : [
+        {"id": 1,
+        "name": "RANGE ROVER VELAR",
+        "Price" : "$234,000",
+        "description": "Range Rover Velar plug-in electric hybrid (PHEV) offers the best of all worlds, with hybrid technology combining a 105kW electric motor and Ingenium petrol engine. Enjoy seamless electric driving with a certified range of up to 65km (40 miles)††.",
+        "image": "https://res.cloudinary.com/dpwdowzdb/image/upload/v1708613904/jsx%20comps/benjamin-blyth-fCvheyWnNs4-unsplash_nsn0lw.jpg"                 
+    },
+    {   "id":2,
+        "name": "BENTLEY BENTAYGA",
+        "Price" : "$205,000",
+        "description": "The Bentayga gets a new range-topping Mulliner trim for 2024 that comes with unique exterior design elements and can be specified in almost 4000 different interior color combinations.",
+        "image": "https://res.cloudinary.com/dpwdowzdb/image/upload/v1708613953/jsx%20comps/stevosdisposable-Ji6Ob4ihNKc-unsplash_nf3t4u.jpg"                 
+    },
+    {   "id":3,
+        "name": "ROLLS ROYCE SPECTRE",
+        "Price" : "$422,750",
+        "description": "All Spectres will come with a dual-motor electric powertrain with 577 horsepower and 664 lb-ft of torque. After taking the Spectre on a test drive, we estimate that the electric powertrain will move the 6559-pound coupe to 60 mph in 4.2 seconds.",
+        "image": "https://res.cloudinary.com/dpwdowzdb/image/upload/v1708619297/jsx%20comps/2024-rolls-royce-spectre-122-649dd25e96ff7_lvgpkw.jpg"                 
+},
+{   "id":4,
+        "name": "MERCEDES-MAYBACH-S-CLASS",
+        "Price" : "$199,000",
+        "description": "A Night Series appearance package is now available for the Maybach S-class that features darkened chrome exterior accents peppered with rose-gold details in the headlamps. The Night Series models come in gray, black, or white exterior colors or can be had with a two-tone Onyx Black and Mojave Silver scheme.",
+        "image": "https://res.cloudinary.com/dpwdowzdb/image/upload/v1708619358/jsx%20comps/23c0184-002-646cbd4d9fce4_uwuqnn.jpg"                 
+    }
+    ]
+}
